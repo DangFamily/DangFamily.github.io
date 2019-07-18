@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+#  咚当家族安排事宜
 
-You can use the [editor on GitHub](https://github.com/cnMikeZhang/dangfamily.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+###一、关于本群
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+本群为咚当家族工作室的临时群，正式创作时将迁移到咚当家族的平台上，将不通过群聊。因此，请大家在此
+填写下自己的邮箱信息，届时将发送平台邀请信息。
+[进入填写](https://www.wenjuan.com/s/JJbyma2/ "进入填写")
+访问密码：dang8601
 
-### Markdown
+###二、创作类型分布
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+咚当家族提供了以下可选择的创作类型
 
-```markdown
-Syntax highlighted code block
+> 编程猫（负责编程猫作品的创作）
+美工当（负责咚当家族的主要美工工作）
+创意当（负责作品创意与部分美工工作）
 
-# Header 1
-## Header 2
-### Header 3
+###三、成员
 
-- Bulleted
-- List
+工作室暂时不对外招募，大家敬请谅解。
 
-1. Numbered
-2. List
+###四、创作类型要求
+**编程猫**
+> 熟悉编程猫创作工具（Kitten）的操作，能独立完成作品。
+会基础的Photoshop操作
 
-**Bold** and _Italic_ and `Code` text
+**美工当**
+> 熟悉Photoshop、illustrator、AfterEffects任意一款软件的操作（最低要求熟悉Photoshop软件操作）
+视频制作熟悉Edius或Premiere的操作（最低要求熟悉Premiere基础操作）
+具有较好的审美观
+熟悉Q版卡通的创作绘制
 
-[Link](url) and ![Image](src)
-```
+**创意当**
+> 脑洞要大（想象力丰富），提供作品和咚当家族IP发展的点子。
+熟悉Photoshop、illustrator、AfterEffects任意一款软件的操作（最低要求熟悉Photoshop软件操作）
+具有较好的审美观
+熟悉Q版卡通的创作绘制
+会画画
+最好是童心未泯
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cnMikeZhang/dangfamily.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###五、正式创作时间
+一、预计本周日将迁移到eteams开始正式创作，请各位成员及时填写好信息。
+二、除每月两份作品强制要求外，工作具体时间在**确保能在截止时间之前**可自由安排。
